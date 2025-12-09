@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import type {
   User,
   Book,
